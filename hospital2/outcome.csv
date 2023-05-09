@@ -1,0 +1,71 @@
+outcome_ID,date,outcome,T_ID
+1,2022-01-01,Recovered,1
+2,2022-02-01,Improved,2
+3,2022-03-01,Stable,3
+4,2022-04-01,Deteriorated,4
+5,2022-05-01,"No change",5
+6,2022-06-01,Recovered,6
+7,2022-07-01,Improved,7
+8,2022-08-01,Stable,8
+9,2022-09-01,Deteriorated,9
+10,2022-10-01,"No change",10
+11,2022-11-01,Recovered,11
+12,2022-12-01,Improved,12
+13,2023-01-01,Stable,13
+14,2023-02-01,Deteriorated,14
+15,2023-03-01,"No change",15
+16,2023-04-01,Recovered,16
+17,2023-05-01,Improved,17
+18,2023-06-01,Stable,18
+19,2023-07-01,Deteriorated,19
+20,2023-08-01,"No change",20
+21,2023-09-01,Recovered,21
+22,2023-10-01,Improved,22
+23,2023-11-01,Stable,23
+24,2023-12-01,Deteriorated,24
+25,2024-01-01,"No change",25
+26,2022-02-02,Recovered,26
+27,2022-02-03,"No Improvement",27
+28,2022-02-04,Recovered,28
+29,2022-02-05,"No Improvement",29
+30,2022-02-06,Recovered,30
+31,2022-02-07,"No Improvement",31
+32,2022-02-08,Recovered,32
+33,2022-02-09,"No Improvement",33
+34,2022-02-10,Recovered,34
+35,2022-02-11,"No Improvement",35
+36,2022-02-12,Recovered,36
+37,2022-02-13,"No Improvement",37
+38,2022-02-14,Recovered,38
+39,2022-02-15,"No Improvement",39
+40,2022-02-16,Recovered,40
+41,2022-02-17,"No Improvement",41
+42,2022-02-18,Recovered,42
+43,2022-02-19,"No Improvement",43
+44,2022-02-20,Recovered,44
+45,2022-02-21,"No Improvement",45
+46,2022-02-22,Recovered,46
+47,2022-02-23,"No Improvement",47
+48,2022-02-24,Recovered,48
+49,2022-02-25,"No Improvement",49
+50,2022-02-26,Recovered,50
+51,2022-06-01,Recovered,2
+52,2022-06-05,Improved,6
+53,2022-06-10,Recovered,8
+54,2022-06-11,Improved,3
+55,2022-06-15,Recovered,1
+56,2022-06-17,"No improvement",5
+57,2022-06-20,Recovered,9
+58,2022-06-22,"No improvement",4
+59,2022-06-25,Recovered,10
+60,2022-06-26,Improved,7
+61,2022-06-30,Recovered,12
+62,2022-07-03,"No improvement",15
+63,2022-07-05,Improved,18
+64,2022-07-08,Recovered,19
+65,2022-07-10,"No improvement",22
+66,2022-07-12,Improved,25
+67,2022-07-15,Recovered,28
+68,2022-07-18,"No improvement",31
+69,2022-07-20,Improved,34
+70,2022-07-25,Recovered,37

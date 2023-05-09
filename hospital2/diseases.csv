@@ -1,0 +1,39 @@
+initial_Condition,count(*)
+"Heart disease",6
+"Breast cancer",5
+"Lung cancer",3
+Depression,3
+"Heart attack",3
+Lymphoma,3
+"Prostate cancer",3
+"Thyroid cancer",2
+"Knee injury",2
+"Hip injury",2
+"Bipolar disorder",2
+"Coronary artery disease",2
+"Shoulder injury",2
+"Colon cancer",2
+Leukemia,2
+"Ankle injury",2
+"Eating disorder",2
+"Pancreatic cancer",2
+"Elbow injury",2
+"Anxiety disorder",2
+"Shoulder pain",1
+Anxiety,1
+"Neck pain",1
+"Brain tumor",1
+PTSD,1
+"Back pain",1
+Arrhythmia,1
+"Ovarian cancer",1
+"Back injury",1
+"Obsessive-compulsive disorder",1
+"Brain cancer",1
+"Post-traumatic stress disorder",1
+"Bladder cancer",1
+"Neck injury",1
+"Heart failure",1
+"Skin cancer",1
+"Foot injury",1
+Schizophrenia,1

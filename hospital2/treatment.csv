@@ -1,0 +1,71 @@
+T_ID,T_name,Strt_date,initial_Condition,P_ID,Dr_id
+1,"Physical Therapy",2022-01-03,"Back pain",1,DR001
+2,Chemotherapy,2021-09-22,"Breast cancer",2,DR003
+3,"Radiation Therapy",2022-02-10,"Lung cancer",3,DR004
+4,"Physical Therapy",2021-11-29,"Knee injury",4,DR002
+5,Psychotherapy,2022-03-17,Depression,5,DR006
+6,"Cardiac Rehabilitation",2022-04-12,"Heart attack",6,DR007
+7,Chemotherapy,2021-10-05,Lymphoma,7,DR009
+8,"Physical Therapy",2022-05-08,"Shoulder pain",8,DR005
+9,"Radiation Therapy",2021-12-14,"Prostate cancer",9,DR008
+10,Psychotherapy,2022-02-20,Anxiety,10,DR011
+11,"Physical Therapy",2022-01-02,"Neck pain",50,DR012
+12,"Physical Therapy",2022-06-01,"Shoulder injury",12,DR013
+13,Psychotherapy,2022-04-17,PTSD,13,DR014
+14,"Cardiac Rehabilitation",2022-03-03,"Heart disease",14,DR015
+15,Chemotherapy,2022-02-14,Leukemia,15,DR016
+16,"Radiation Therapy",2022-04-20,"Breast cancer",16,DR013
+17,"Physical Therapy",2022-01-07,"Hip injury",17,DR018
+18,Psychotherapy,2022-03-22,"Bipolar disorder",18,DR019
+19,"Cardiac Rehabilitation",2022-04-25,"Coronary artery disease",19,DR020
+20,Chemotherapy,2022-02-28,"Colon cancer",20,DR014
+21,"Radiation Therapy",2022-01-12,"Thyroid cancer",21,DR013
+22,"Physical Therapy",2022-03-01,"Ankle injury",22,DR015
+23,Psychotherapy,2022-04-10,"Eating disorder",23,DR016
+24,"Cardiac Rehabilitation",2022-05-05,"Heart attack",24,DR014
+25,Chemotherapy,2022-01-28,"Pancreatic cancer",25,DR013
+26,"Radiation Therapy",2022-03-15,"Brain tumor",26,DR017
+27,"Physical Therapy",2022-04-18,"Elbow injury",27,DR015
+28,Psychotherapy,2022-02-24,Depression,28,DR016
+29,"Cardiac Rehabilitation",2022-01-10,"Heart disease",29,DR018
+30,Chemotherapy,2022-03-27,Lymphoma,30,DR019
+31,"Radiation Therapy",2022-02-09,"Prostate cancer",31,DR020
+32,"Physical Therapy",2022-03-24,"Knee injury",32,DR021
+33,Psychotherapy,2022-05-11,"Anxiety disorder",33,DR022
+34,"Cardiac Rehabilitation",2022-04-05,Arrhythmia,34,DR023
+35,Chemotherapy,2022-03-07,"Ovarian cancer",35,DR024
+36,"Radiation Therapy",2022-02-15,"Lung cancer",36,DR020
+37,"Physical Therapy",2022-01-31,"Back injury",37,DR021
+38,Psychotherapy,2022-04-23,"Obsessive-compulsive disorder",38,DR022
+39,"Cardiac Rehabilitation",2022-03-08,"Heart disease",39,DR023
+40,Chemotherapy,2022-02-01,"Breast cancer",40,DR024
+41,"Radiation Therapy",2022-01-03,"Brain cancer",41,DR020
+42,"Physical Therapy",2022-03-11,"Shoulder injury",42,DR021
+43,Psychotherapy,2022-02-19,"Post-traumatic stress disorder",43,DR022
+44,"Cardiac Rehabilitation",2022-05-02,"Heart attack",44,DR023
+45,Chemotherapy,2022-04-06,"Pancreatic cancer",45,DR024
+46,"Radiation Therapy",2022-03-02,"Bladder cancer",46,DR020
+47,"Physical Therapy",2022-02-04,"Ankle injury",47,DR021
+48,Psychotherapy,2022-04-28,Depression,48,DR022
+49,"Cardiac Rehabilitation",2022-03-15,"Heart disease",49,DR023
+50,Chemotherapy,2022-02-08,Lymphoma,50,DR024
+51,"Radiation Therapy",2022-01-25,"Breast cancer",51,DR030
+52,"Physical Therapy",2022-02-20,"Hip injury",52,DR031
+53,Psychotherapy,2022-03-15,"Bipolar disorder",53,DR032
+54,"Cardiac Rehabilitation",2022-04-10,"Coronary artery disease",54,DR033
+55,Chemotherapy,2022-05-05,Leukemia,52,DR034
+56,"Radiation Therapy",2022-06-01,"Thyroid cancer",23,DR030
+57,"Physical Therapy",2022-07-01,"Neck injury",40,DR031
+58,Psychotherapy,2022-08-01,"Eating disorder",5,DR032
+59,"Cardiac Rehabilitation",2022-09-01,"Heart failure",52,DR033
+60,Chemotherapy,2022-10-01,"Lung cancer",44,DR034
+61,"Radiation Therapy",2022-11-01,"Skin cancer",33,DR030
+62,"Physical Therapy",2022-12-01,"Foot injury",21,DR031
+63,Psychotherapy,2023-01-01,Schizophrenia,34,DR032
+64,"Cardiac Rehabilitation",2023-02-01,"Heart disease",12,DR033
+65,Chemotherapy,2023-03-01,"Colon cancer",6,DR034
+66,"Radiation Therapy",2023-04-01,"Prostate cancer",36,DR030
+67,"Physical Therapy",2023-05-01,"Elbow injury",47,DR031
+68,Psychotherapy,2023-06-01,"Anxiety disorder",8,DR032
+69,"Cardiac Rehabilitation",2023-07-01,"Heart disease",29,DR033
+70,Chemotherapy,2023-08-01,"Breast cancer",10,DR034
