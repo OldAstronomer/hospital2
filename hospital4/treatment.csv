@@ -1,0 +1,76 @@
+T_ID,T_name,Strt_date,Initial_Condition,Dr_ID,Pt_ID
+T001,Medication A,2021-01-15,Fever,D001,1
+T002,Physical Therapy,2021-02-10,Sprained ankle,D002,2
+T003,Surgery,2021-03-07,Broken leg,D003,3
+T004,Medication B,2021-04-01,Migraine,D004,4
+T005,Chemotherapy,2021-05-15,Cancer,D005,5
+T006,Physical Therapy,2021-06-10,Lower back pain,D006,6
+T007,Surgery,2021-07-05,Fractured arm,D007,7
+T008,Medication A,2021-08-01,Headache,D008,8
+T009,Psychiatric therapy,2021-09-01,Depression,D009,9
+T010,Physical Therapy,2021-09-20,Sciatica,D010,10
+T011,Medication A,2021-10-05,Flu,D011,11
+T012,Surgery,2021-11-01,Appendicitis,D012,12
+T013,Chemotherapy,2021-12-15,Leukemia,D013,13
+T014,Physical Therapy,2022-01-10,Knee injury,D014,14
+T015,Surgery,2022-02-05,Hernia,D015,15
+T016,Medication B,2022-03-01,Migraine,D016,16
+T017,Physical Therapy,2022-04-10,Shoulder pain,D017,17
+T018,Surgery,2022-05-05,Gallbladder removal,D018,18
+T019,Medication A,2022-06-01,Headache,D019,19
+T020,Surgery,2022-07-15,Kidney stone,D020,20
+T021,Physical Therapy,2022-08-10,Neck pain,D021,21
+T022,Chemotherapy,2022-09-05,Pancreatic cancer,D022,22
+T023,Surgery,2022-10-01,Heart bypass,D023,23
+T024,Medication B,2022-11-15,Depression,D024,24
+T025,Physical Therapy,2022-12-10,Ankle sprain,D025,25
+T026,Surgery,2023-01-05,Fractured leg,D026,26
+T027,Medication A,2023-02-01,Allergies,D027,27
+T028,Physical Therapy,2023-03-15,Tennis elbow,D028,28
+T029,Surgery,2023-04-10,Hip replacement,D029,29
+T030,Chemotherapy,2023-05-05,Breast cancer,D030,30
+T031,Physical Therapy,2023-06-01,Back pain,D031,31
+T032,Surgery,2023-07-15,Gastric bypass,D032,32
+T033,Medication B,2023-08-10,Anxiety,D033,33
+T034,Physical Therapy,2023-09-05,Arthritis,D034,34
+T035,Surgery,2023-10-01,Gallstones,D035,35
+T036,Physical Therapy,2023-11-15,Frozen shoulder,D036,36
+T037,Medication A,2023-12-10,Insomnia,D037,37
+T038,Chemotherapy,2024-01-05,Lung cancer,D038,38
+T039,Physical Therapy,2024-02-01,Plantar fasciitis,D039,39
+T040,Surgery,2024-03-15,ACL tear,D040,40
+T041,Medication B,2024-04-10,High blood pressure,D041,41
+T042,Physical Therapy,2024-05-05,Whiplash,D042,42
+T043,Surgery,2024-06-01,Herniated disc,D043,43
+T044,Chemotherapy,2024-07-15,Colon cancer,D044,44
+T045,Physical Therapy,2024-08-10,Tennis elbow,D045,45
+T046,Surgery,2024-09-05,Gallbladder stones,D046,46
+T047,Medication A,2024-10-01,Depression,D047,47
+T048,Physical Therapy,2024-11-15,Shoulder impingement,D048,48
+T049,Surgery,2024-12-10,Groin strain,D049,49
+T050,Medication B,2025-01-05,Anxiety,D050,50
+T051,Physical Therapy,2025-02-01,Sciatica,D051,51
+T052,Surgery,2025-03-15,Appendicitis,D052,52
+T053,Chemotherapy,2025-04-10,Lymphoma,D053,53
+T054,Physical Therapy,2025-05-05,Back pain,D054,54
+T055,Surgery,2025-06-01,Hip fracture,D055,55
+T056,Medication A,2025-07-15,Migraine,D056,56
+T057,Physical Therapy,2025-08-10,Neck pain,D057,57
+T058,Surgery,2025-09-05,Heart valve replacement,D058,58
+T059,Chemotherapy,2025-10-01,Prostate cancer,D059,59
+T060,Physical Therapy,2025-11-15,Knee replacement,D060,60
+T060,Medication B,2025-12-10,Insomnia,D060,60
+T061,Physical Therapy,2026-01-05,Ankle sprain,D061,61
+T062,Surgery,2026-02-01,Gallstones,D062,62
+T063,Chemotherapy,2026-03-15,Breast cancer,D063,63
+T064,Physical Therapy,2026-04-10,Carpal tunnel syndrome,D064,64
+T065,Surgery,2026-05-05,Kidney stones,D065,65
+T066,Medication A,2026-06-01,Depression,D066,66
+T067,Physical Therapy,2026-07-15,Rotator cuff tear,D067,67
+T068,Surgery,2026-08-10,Appendicitis,D068,68
+T069,Chemotherapy,2026-09-05,Leukemia,D069,69
+T070,Physical Therapy,2026-10-01,Plantar fasciitis,D070,70
+T071,Surgery,2026-11-15,Gallbladder stones,D071,71
+T072,Medication B,2026-12-10,High blood pressure,D072,72
+T073,Physical Therapy,2027-01-05,Lower back pain,D073,73
+T074,Surgery,2027-02-01,Hernia repair,D074,74

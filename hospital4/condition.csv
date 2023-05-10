@@ -1,0 +1,54 @@
+Initial_Condition,count(*)
+Depression,4
+Appendicitis,3
+Migraine,3
+Leukemia,2
+"Breast cancer",2
+"Ankle sprain",2
+"Lower back pain",2
+"Neck pain",2
+Headache,2
+Sciatica,2
+"Tennis elbow",2
+"Back pain",2
+Anxiety,2
+Gallstones,2
+Insomnia,2
+"Plantar fasciitis",2
+"High blood pressure",2
+"Gallbladder stones",2
+Hernia,1
+"Shoulder pain",1
+"Gallbladder removal",1
+"Kidney stone",1
+"Pancreatic cancer",1
+"Fractured leg",1
+Allergies,1
+"Hip replacement",1
+"Heart bypass",1
+"Sprained ankle",1
+"Gastric bypass",1
+"Broken leg",1
+Arthritis,1
+Cancer,1
+"Frozen shoulder",1
+Fever,1
+"Lung cancer",1
+Flu,1
+"ACL tear",1
+"Fractured arm",1
+Whiplash,1
+"Herniated disc",1
+"Colon cancer",1
+"Knee injury",1
+"Shoulder impingement",1
+"Groin strain",1
+Lymphoma,1
+"Hip fracture",1
+"Heart valve replacement",1
+"Prostate cancer",1
+"Knee replacement",1
+"Carpal tunnel syndrome",1
+"Kidney stones",1
+"Rotator cuff tear",1
+"Hernia repair",1
